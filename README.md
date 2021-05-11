@@ -46,3 +46,13 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 ### Bernie Durfee
+
+<<<<<<< HEAD
+
+### Rigo Limon!
+
+=======
+
+### Matthew Martin
+
+> > > > > > > 608952f776bc33f5f732b588746819346b26f5cc
